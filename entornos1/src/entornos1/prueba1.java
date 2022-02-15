@@ -1,6 +1,7 @@
 package entornos1;
 
 public class prueba1 {
-int jefe;
-int nain;
+public static void main(String[] args) {
+	System.out.println("Hola");
+}
 }
